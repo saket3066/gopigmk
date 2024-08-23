@@ -52,7 +52,5 @@ sed -i 's|PRIVATE_KEY="[^"]*"|PRIVATE_KEY=""|g' .env
 echo ""
 echo "👍👍 ALL DONE 👍👍"
 echo ""
-echo "Credit to AnonID.TOP for laying the groundwork 👏👏"
-echo ""
-echo "Join my Telegram channel for more updates: https://t.me/CryptoBunkie"
+echo "Join my Telegram channel for more updates: https://t.me/TeluguEarningss"
 echo ""
