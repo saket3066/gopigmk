@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the repository URL
-REPO_URL="https://github.com/cryptobunkie/swtr06"
+REPO_URL="https://github.com/bagyaraj937/deploy6.git"
 
 # Create a temporary directory to clone the repository
 TEMP_DIR=$(mktemp -d)
